@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<suite name="Automation Test">
+<test name="raftests">
+
+
+<classes >
+	<class name="rafJenkins.rafhelloworld"/>
+
+</classes>
+
+
+</test>
+
+
+
+
+</suite>
